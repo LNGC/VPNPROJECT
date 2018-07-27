@@ -1,8 +1,7 @@
-﻿'Creator: Tachyon
-'Date: 25 Ocotber 2015
-'Release Date: 27 October 2015
+'Creator: Tachyon edited/rework by LNGCGENETIC 
+'Date: 26 July 2018
+'Release Date: 27 October 2015 rework[TBD]
 'License: GNU GPL v2
-'If there are any issues please contact: tachyon@hackforums.org
 
 Imports DotRas
 Public Class Form1
